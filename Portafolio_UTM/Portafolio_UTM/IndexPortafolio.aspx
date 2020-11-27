@@ -9,7 +9,8 @@
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
-        <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/28a2f57e19.js" crossorigin="anonymous"></script>
+
         <!-- Google fonts-->
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
@@ -135,10 +136,10 @@
                     <div class="col-sm-4">
                         <!-- normal -->
                         <div class="ih-item square effect13 top_to_bottom"><a href="#">
-                            <div class="img"><img src="assets/img/MBVD_030_Ahri_MobileWallpaper.png"  /></div>
+                            <div class="img"><img src="assets/img/perfil.jpeg"  /></div>
                             <div class="info">
-                                <h3>Brandon Diaz</h3>
-                                <p>Description goes here</p>
+                                <h3>Brandon Díaz Sanjuán</h3>
+                                <p>Desarrollador de Software</p>
                             </div></a>
                         </div>
                         <!-- end normal -->
@@ -148,7 +149,7 @@
                 <div class="row">
                     <div class="col-lg-4 ml-auto"><p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
                     <div class="col-lg-4 mr-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
-                    <div class="col-lg-4 mr-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
+                    <div class="col-lg-4 mr-auto"><br /><p class="lead"><i class="fa fa-user-o" aria-hidden="true"></i> T.S.U e Ingeniero en Desarrollo de Software. <br /> <br /> <i class="fa fa-book" aria-hidden="true"> </i> Conocimiento en C#, Python, Flutter, Visual Studio, Visual Code.</p></div>
                 </div>
 
             </div>
