@@ -245,6 +245,7 @@
                     <button class="close" type="button" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true"><i class="fas fa-times"></i></span>
                     </button>
+
                     <div class="modal-body text-center">
                         <div class="container">
                             <div class="row justify-content-center">
