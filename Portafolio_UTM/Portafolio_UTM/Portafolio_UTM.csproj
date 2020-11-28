@@ -76,6 +76,8 @@
     <Content Include="assets\img\portfolio\game.png" />
     <Content Include="assets\img\portfolio\safe.png" />
     <Content Include="assets\img\portfolio\submarine.png" />
+    <Content Include="assets\img\perfilfer.jpeg" />
+    <Content Include="assets\img\unido.png" />
     <Content Include="assets\mail\contact_me.js" />
     <Content Include="assets\mail\contact_me.php" />
     <Content Include="assets\mail\jqBootstrapValidation.js" />
