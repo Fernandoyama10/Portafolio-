@@ -51,7 +51,7 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Masthead Subheading-->
-                <p class="masthead-subheading font-weight-light mb-0">Desarrollo aplicaciones multiplataforma - Diseño gráfico</p>
+                <p class="masthead-subheading font-weight-light mb-0">Desarrollo de Aplicaciones Multiplataforma - Diseño gráfico</p>
             </div>
         </header>
         <!-- Portfolio Section-->
@@ -94,14 +94,8 @@
                             <img class="img-fluid" src="assets/img/portfolio/circus.png" alt="" />
                         </div>
                     </div>
-<<<<<<< HEAD
-                    
-                    <!-- Portfolio Item 4-->
-                    <div class="col-md-6 col-lg-4 mb-5">
-=======
                     <!-- Portfolio Item 4-->
                       <div class="col-md-6 col-lg-4 mb-5">
->>>>>>> origin/testing
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal3">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
@@ -110,11 +104,7 @@
                         </div>
                     </div>
                     <!-- Portfolio Item 5-->
-<<<<<<< HEAD
-                    <div class="col-md-6 col-lg-4 mb-5">
-=======
                       <div class="col-md-6 col-lg-4 mb-5">
->>>>>>> origin/testing
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal3">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
@@ -123,11 +113,8 @@
                         </div>
                     </div>
                     <!-- Portfolio Item 6-->
-<<<<<<< HEAD
-                    <div class="col-md-6 col-lg-4 mb-5">
-=======
+
                       <div class="col-md-6 col-lg-4 mb-5">
->>>>>>> origin/testing
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal3">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
@@ -186,14 +173,9 @@
                     </div>
                 </div>
                 <!-- end Top to Bottom-->
-                <div class="row">
-<<<<<<< HEAD
-                    <div class="col-lg-4 ml-auto"><p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
+                <div class="row">                
+                    <div class="col-lg-4 mr-auto"><br /><p class="lead"><i class="fa fa-user-o" aria-hidden="true"></i> T.S.U Desarrollo de Software Multiplataforma. <br /> <br /> <i class="fa fa-book" aria-hidden="true"> </i> Conocimiento en C#, Php, java, Flutter, Visual Studio, Visual Code, SQL server, Mysql. <br /><br /> <i class="fa fa-pencil-square-o" aria-hidden="true"> </i> Software para el diseño gráfico: Corel draw, Adobe Photoshop, Adobe Ilustrator, Adobe After effects.</p></div>
                     <div class="col-lg-4 mr-auto"><br /><p class="lead"><i class="fa fa-user-o" aria-hidden="true"></i> T.S.U e Ingeniero en Desarrollo de Software. <br /> <br /> <i class="fa fa-book" aria-hidden="true"> </i> Conocimiento en C#, PHP, Flutter, Visual Studio.</p></div>
-=======
-                     <div class="col-lg-4 mr-auto"><br /><p class="lead"><i class="fa fa-user-o" aria-hidden="true"></i> T.S.U Desarrollo de Software Multiplataforma. <br /> <br /> <i class="fa fa-book" aria-hidden="true"> </i> Conocimiento en C#, Php, java, Flutter, Visual Studio, Visual Code, SQL server, Mysql. <br /><br /> <i class="fa fa-pencil-square-o" aria-hidden="true"> </i> Software para el diseño gráfico: Corel draw, Adobe Photoshop, Adobe Ilustrator, Adobe After effects.</p></div>
-                    <div class="col-lg-4 mr-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
->>>>>>> origin/testing
                     <div class="col-lg-4 mr-auto"><br /><p class="lead"><i class="fa fa-user-o" aria-hidden="true"></i> T.S.U e Ingeniero en Desarrollo de Software. <br /> <br /> <i class="fa fa-book" aria-hidden="true"> </i> Conocimiento en C#, Python, Flutter, Visual Studio, Visual Code.</p></div>
                 </div>
 
