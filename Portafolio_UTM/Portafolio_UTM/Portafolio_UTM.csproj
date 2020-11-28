@@ -79,6 +79,7 @@
     <Content Include="assets\mail\contact_me.js" />
     <Content Include="assets\mail\contact_me.php" />
     <Content Include="assets\mail\jqBootstrapValidation.js" />
+    <Content Include="assets\img\PedroRubioUrtecho_6D.jpg" />
     <Content Include="css\ihover.css" />
     <Content Include="css\ihover.min.css" />
     <Content Include="css\styles.css" />
