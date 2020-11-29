@@ -70,6 +70,9 @@
     <Content Include="assets\img\avataaars.svg" />
     <Content Include="assets\img\favicon.ico" />
     <Content Include="assets\img\MBVD_030_Ahri_MobileWallpaper.png" />
+    <Content Include="assets\img\portfolio\ayudanos_a_reportar.PNG" />
+    <Content Include="assets\img\portfolio\contactanostaller.PNG" />
+    <Content Include="assets\img\portfolio\portafolioprozoo.PNG" />
     <Content Include="assets\img\portfolio\circus.png" />
     <Content Include="assets\img\portfolio\libroteca_1.jpeg" />
     <Content Include="assets\img\portfolio\libroteca_2.jpeg" />
@@ -83,6 +86,9 @@
     <Content Include="assets\img\perfilfer.jpeg" />
     <Content Include="assets\img\portfolio\RC_1.png" />
     <Content Include="assets\img\portfolio\RC_2.png" />
+    <Content Include="assets\img\portfolio\reportemascota.PNG" />
+    <Content Include="assets\img\portfolio\serviciostaller.PNG" />
+    <Content Include="assets\img\portfolio\talleryama.png" />
     <Content Include="assets\img\unido.png" />
     <Content Include="assets\mail\contact_me.js" />
     <Content Include="assets\mail\contact_me.php" />
