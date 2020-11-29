@@ -56,3 +56,4 @@ C:\Users\brand\Documents\GitHub\Portafolio-\Portafolio_UTM\Portafolio_UTM\obj\Re
 C:\Users\brand\Documents\GitHub\Portafolio-\Portafolio_UTM\Portafolio_UTM\obj\Release\Portafolio_UTM.csproj.CopyComplete
 C:\Users\brand\Documents\GitHub\Portafolio-\Portafolio_UTM\Portafolio_UTM\obj\Release\Portafolio_UTM.dll
 C:\Users\brand\Documents\GitHub\Portafolio-\Portafolio_UTM\Portafolio_UTM\obj\Release\Portafolio_UTM.pdb
+C:\Users\brand\Documents\GitHub\Portafolio-\Portafolio_UTM\Portafolio_UTM\obj\Release\Portafolio_UTM.csprojAssemblyReference.cache

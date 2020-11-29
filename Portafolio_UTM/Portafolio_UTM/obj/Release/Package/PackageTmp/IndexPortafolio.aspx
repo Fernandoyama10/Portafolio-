@@ -28,6 +28,15 @@
             }
             </script>
 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-26M9ZRJ1CW"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-26M9ZRJ1CW');
+</script>
+
 </head>
 <body id="page-top">
     <form id="form1" runat="server">
@@ -83,7 +92,7 @@
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-eye fa-3x accordion"></i></div>
+                                <div class="portfolio-item-caption-content text-center text-white"><a style="font-size:19px">VER DETALLES</a><br /><i class="fas fa-eye fa-3x accordion"></i></div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio/prozoovita.png" alt="" />
                         </div>
@@ -92,7 +101,7 @@
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal2">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-eye fa-3x accordion"></i></div>
+                                  <div class="portfolio-item-caption-content text-center text-white"><a style="font-size:19px">VER DETALLES</a><br /><i class="fas fa-eye fa-3x accordion"></i></div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio/portafolio_2.png" alt="" />
                         </div>
@@ -101,7 +110,7 @@
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal3">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-eye fa-3x accordion"></i></div>
+                               <div class="portfolio-item-caption-content text-center text-white"><a style="font-size:19px">VER DETALLES</a><br /><i class="fas fa-eye fa-3x accordion"></i></div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio/portafolio_3.jpg" alt="" />
                         </div>
@@ -110,7 +119,7 @@
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal4">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-eye fa-3x accordion"></i></div>
+                                  <div class="portfolio-item-caption-content text-center text-white"><a style="font-size:19px">VER DETALLES</a><br /><i class="fas fa-eye fa-3x accordion"></i></div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio/talleryama.png" alt="" />
                         </div>
@@ -119,7 +128,7 @@
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal5">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-eye fa-3x accordion"></i></div>
+                                <div class="portfolio-item-caption-content text-center text-white"><a style="font-size:19px">VER DETALLES</a><br /><i class="fas fa-eye fa-3x accordion"></i></div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio/portafolio_5.png" />
                         </div>
@@ -129,7 +138,7 @@
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal6">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-eye fa-3x accordion"></i></div>
+                              <div class="portfolio-item-caption-content text-center text-white"><a style="font-size:19px">VER DETALLES</a><br /><i class="fas fa-eye fa-3x accordion"></i></div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio/portafolio_6.jpg" alt="" />
                         </div>
@@ -246,7 +255,7 @@
                                     <label>Nombre</label>
                                        <asp:TextBox runat="server" class="form-control" id="txt_name" autocomplete="off"  type="text" placeholder="Nombre" maxlength="50" required="required"></asp:TextBox>
       
-                                <asp:RegularExpressionValidator ID="RegularExpressionValidator3" CssClass="errorCaptura2" runat="server" ValidationGroup="vgrCapturaDatos" ValidationExpression="^[A-Za-z \s]+$" ControlToValidate="txt_name" Text=" " ErrorMessage="•Ingrese solo letras."></asp:RegularExpressionValidator>
+                                <asp:RegularExpressionValidator ID="RegularExpressionValidator3" CssClass="errorCaptura2" runat="server" ValidationGroup="vgrCapturaDatos" ValidationExpression="^[A-Za-z \s]+$" ControlToValidate="txt_name" Text=" " ErrorMessage="•Ingrese solo letras sin guiones."></asp:RegularExpressionValidator>
                                 </div>
                             </div>
                             <div class="control-group">
