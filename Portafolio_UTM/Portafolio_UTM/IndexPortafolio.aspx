@@ -73,16 +73,16 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-eye fa-3x accordion"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="" />
+                            <img class="img-fluid" src="assets/img/portfolio/circus.png" alt="" />
                         </div>
                     </div>
                     <!-- Portfolio Item 2-->
-                    <div class="col-md-6 col-lg-4 mb-5">
+                   <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal2">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-eye fa-3x accordion"></i></i></div>
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-eye fa-3x accordion"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/cake.png" alt="" />
+                            <img class="img-fluid" src="assets/img/portfolio/portafolio_2.png" alt="" />
                         </div>
                     </div>
                     <!-- Portfolio Item 3-->
@@ -96,7 +96,7 @@
                     </div>
                     <!-- Portfolio Item 4-->
                       <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal3">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal4">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-eye fa-3x accordion"></i></div>
                             </div>
@@ -105,11 +105,11 @@
                     </div>
                     <!-- Portfolio Item 5-->
                       <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal3">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal5">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-eye fa-3x accordion"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/circus.png" alt="" />
+                            <img class="img-fluid" src="assets/img/portfolio/portafolio_5.png"/>
                         </div>
                     </div>
                     <!-- Portfolio Item 6-->
@@ -313,7 +313,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal2Label">Tasty Cake</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal2Label">RewardCan</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -321,13 +321,13 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cake.png" alt="" />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/RC_1.png" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
-                                    <button class="btn btn-primary" data-dismiss="modal">
-                                        <i class="fas fa-times fa-fw"></i>
-                                        Close Window
-                                    </button>
+                                     <h5 class="text-secondary text-uppercase mb-0">Descripción: </h5><p class="mb-5">Aplicación Web y Aplicación Movil - Es un servicio para escuelas publicas, en donde los directores de las escuelas pueden registrarse para recolectar aluminio, y dar obsequios a la comunidad estudiantil por medio de cupones de la recoleccion que hayan hecho en la app.</p>
+                                     <h5 class="text-secondary text-uppercase mb-0">Dinamica de uso: </h5><p class="mb-5">Para ser parte de RewardCan es registrarte, al terminar tu registro podras iniciar sesion en la que el administrador podra consultar estadisticas de la recoleccion por salon y para poder determinar a los ganadores, y tambien son encargados de crear diferentes apartados como lo son grado, grupos y salones que vayan a participar.</p>
+                                     <h5 class="text-secondary text-uppercase mb-0">Tecnologías del Proyecto: </h5><p class="mb-5">C# ASP.NET, SQL SERVER</p>
+                                     <img class="img-fluid2 rounded mb-5" src="assets/img/portfolio/RC_2.png"/>
+                                     <button class="btn btn-primary" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Cerrar Ventana</button>
                                 </div>
                             </div>
                         </div>
@@ -358,13 +358,10 @@
                                     <img class="img-fluid2 rounded mb-5" src="assets/img/portfolio/libroteca_2.jpeg" alt="" />
                                     <!-- Portfolio Modal - Text-->
                                      <h5 class="text-secondary text-uppercase mb-0">Descripción: </h5><p class="mb-5">Aplicación Web - Libroteca CS es una comunidad de lectores, de uso gratuito, dedicada a escritores novatos que quieren difundir su contenido con otros usuarios.</p>
-
-                                         <h5 class="text-secondary text-uppercase mb-0">Dinamica de uso: </h5><p class="mb-5">Para poder leer o subir contenido (autor) primero debes registrarte, una ves dado de alta puedes crear tus propios libros y sus respectivos capitulos, estas deben ser aprobadas por la administración y una vez echa su difusión en la app, esta puede ser calificada por otros usuarios mediante estrellas y también puede recibir comentarios,  asimismo puedes leer el contenido de otros autores.</p>
-                                           <h5 class="text-secondary text-uppercase mb-0">Tecnologías del Proyecto: </h5><p class="mb-5">C# ASP.NET, SQL SERVER</p>
-
+                                     <h5 class="text-secondary text-uppercase mb-0">Dinamica de uso: </h5><p class="mb-5">Para poder leer o subir contenido (autor) primero debes registrarte, una ves dado de alta puedes crear tus propios libros y sus respectivos capitulos, estas deben ser aprobadas por la administración y una vez echa su difusión en la app, esta puede ser calificada por otros usuarios mediante estrellas y también puede recibir comentarios,  asimismo puedes leer el contenido de otros autores.</p>
+                                     <h5 class="text-secondary text-uppercase mb-0">Tecnologías del Proyecto: </h5><p class="mb-5">C# ASP.NET, SQL SERVER</p>
                                      <img class="img-fluid2 rounded mb-5" src="assets/img/portfolio/libroteca_1.jpeg" alt="" />
-
-                                    <button class="btn btn-primary" data-dismiss="modal">
+                                     <button class="btn btn-primary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Cerrar Ventana
                                     </button>
@@ -421,7 +418,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal5Label">Locked Safe</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal5Label">OCACY</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -429,13 +426,13 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/safe.png" alt="" />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/OCACY_1.png" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
-                                    <button class="btn btn-primary" data-dismiss="modal">
-                                        <i class="fas fa-times fa-fw"></i>
-                                        Close Window
-                                    </button>
+                                    <h5 class="text-secondary text-uppercase mb-0">Descripción: </h5><p class="mb-5">Aplicación Web - OCACY surge como una necesidad de articular a diversas expresiones de la comunidad artística de Yucatán preocupadas por establecer nuevos sistemas organizativos y participativos entre la comunidad y la sociedad.El colectivo de personas trabajadoras del arte y la cultura decidimos formalizar el espacio de trabajo como un Observatorio, para que represente a la población y no los intereses institucionales, también perseguimos que la mirada sea amplia, sobre todas las manifestaciones culturales y con un límite geográfico establecido en el Estado de Yucatán.</p>
+                                     <h5 class="text-secondary text-uppercase mb-0">Dinamica de uso: </h5><p class="mb-5">Para poder leer o subir contenido (autor) primero debes registrarte, una ves dado de alta puedes crear tus propios libros y sus respectivos capitulos, estas deben ser aprobadas por la administración y una vez echa su difusión en la app, esta puede ser calificada por otros usuarios mediante estrellas y también puede recibir comentarios,  asimismo puedes leer el contenido de otros autores.</p>
+                                     <h5 class="text-secondary text-uppercase mb-0">Tecnologías del Proyecto: </h5><p class="mb-5">C# ASP.NET, SQL SERVER</p>
+                                     <img class="img-fluid2 rounded mb-5" src="assets/img/portfolio/OCACY_2.png" alt="" />
+                                     <button class="btn btn-primary" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Cerrar Ventana</button>
                                 </div>
                             </div>
                         </div>

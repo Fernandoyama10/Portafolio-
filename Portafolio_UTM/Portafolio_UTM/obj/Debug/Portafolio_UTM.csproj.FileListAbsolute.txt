@@ -170,8 +170,8 @@ C:\Users\lletro\Documents\GitHub\Portafolio-\Portafolio_UTM\Portafolio_UTM\bin\r
 C:\Users\lletro\Documents\GitHub\Portafolio-\Portafolio_UTM\Portafolio_UTM\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\lletro\Documents\GitHub\Portafolio-\Portafolio_UTM\Portafolio_UTM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\lletro\Documents\GitHub\Portafolio-\Portafolio_UTM\Portafolio_UTM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\lletro\Documents\GitHub\Portafolio-\Portafolio_UTM\Portafolio_UTM\obj\Debug\Portafolio_UTM.csprojAssemblyReference.cache
 C:\Users\lletro\Documents\GitHub\Portafolio-\Portafolio_UTM\Portafolio_UTM\obj\Debug\Portafolio_UTM.csproj.CoreCompileInputs.cache
 C:\Users\lletro\Documents\GitHub\Portafolio-\Portafolio_UTM\Portafolio_UTM\obj\Debug\Portafolio_UTM.csproj.CopyComplete
 C:\Users\lletro\Documents\GitHub\Portafolio-\Portafolio_UTM\Portafolio_UTM\obj\Debug\Portafolio_UTM.dll
 C:\Users\lletro\Documents\GitHub\Portafolio-\Portafolio_UTM\Portafolio_UTM\obj\Debug\Portafolio_UTM.pdb
+C:\Users\lletro\Documents\GitHub\Portafolio-\Portafolio_UTM\Portafolio_UTM\obj\Debug\Portafolio_UTM.csprojAssemblyReference.cache
