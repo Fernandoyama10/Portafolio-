@@ -74,6 +74,12 @@
     <Content Include="assets\img\portfolio\cake.png" />
     <Content Include="assets\img\portfolio\circus.png" />
     <Content Include="assets\img\portfolio\game.png" />
+    <Content Include="assets\img\portfolio\libroteca_1.jpeg" />
+    <Content Include="assets\img\portfolio\libroteca_2.jpeg" />
+    <Content Include="assets\img\portfolio\medicalexpress_1.jpeg" />
+    <Content Include="assets\img\portfolio\medicalexpress_2.jpeg" />
+    <Content Include="assets\img\portfolio\portafolio_3.jpg" />
+    <Content Include="assets\img\portfolio\portafolio_6.jpg" />
     <Content Include="assets\img\portfolio\safe.png" />
     <Content Include="assets\img\portfolio\submarine.png" />
     <Content Include="assets\img\perfilfer.jpeg" />

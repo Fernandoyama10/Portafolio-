@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*!
 * Start Bootstrap - Freelancer v6.0.5 (https://startbootstrap.com/theme/freelancer)
 * Copyright 2013-2020 Start Bootstrap
@@ -499,7 +499,10 @@ mark,
   max-width: 100%;
   height: auto;
 }
-
+.img-fluid2 {
+    max-width: 80%;
+    height: auto;
+}
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;

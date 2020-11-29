@@ -58,7 +58,7 @@
         <section class="page-section portfolio" id="portfolio">
             <div class="container">
                 <!-- Portfolio Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Proyectos</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Nuestros Proyectos</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
@@ -91,7 +91,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-eye fa-3x accordion"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/circus.png" alt="" />
+                            <img class="img-fluid" src="assets/img/portfolio/portafolio_3.jpg" alt="" />
                         </div>
                     </div>
                     <!-- Portfolio Item 4-->
@@ -115,11 +115,11 @@
                     <!-- Portfolio Item 6-->
 
                       <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal3">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal6">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-eye fa-3x accordion"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/circus.png" alt="" />
+                            <img class="img-fluid" src="assets/img/portfolio/portafolio_6.jpg" alt="" />
                         </div>
                     </div>
                 </div>
@@ -347,7 +347,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal3Label">Circus Tent</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal3Label">Libroteca CS</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -355,12 +355,18 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/circus.png" alt="" />
+                                    <img class="img-fluid2 rounded mb-5" src="assets/img/portfolio/libroteca_2.jpeg" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                     <h5 class="text-secondary text-uppercase mb-0">Descripción: </h5><p class="mb-5">Aplicación Web - Libroteca CS es una comunidad de lectores, de uso gratuito, dedicada a escritores novatos que quieren difundir su contenido con otros usuarios.</p>
+
+                                         <h5 class="text-secondary text-uppercase mb-0">Dinamica de uso: </h5><p class="mb-5">Para poder leer o subir contenido (autor) primero debes registrarte, una ves dado de alta puedes crear tus propios libros y sus respectivos capitulos, estas deben ser aprobadas por la administración y una vez echa su difusión en la app, esta puede ser calificada por otros usuarios mediante estrellas y también puede recibir comentarios,  asimismo puedes leer el contenido de otros autores.</p>
+                                           <h5 class="text-secondary text-uppercase mb-0">Tecnologías del Proyecto: </h5><p class="mb-5">C# ASP.NET, SQL SERVER</p>
+
+                                     <img class="img-fluid2 rounded mb-5" src="assets/img/portfolio/libroteca_1.jpeg" alt="" />
+
                                     <button class="btn btn-primary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
-                                        Close Window
+                                        Cerrar Ventana
                                     </button>
                                 </div>
                             </div>
@@ -449,20 +455,28 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal6Label">Submarine</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal6Label">Medical Express</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
                                         <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                                         <div class="divider-custom-line"></div>
                                     </div>
-                                    <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/submarine.png" alt="" />
+                                                        <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid2 rounded mb-5" src="assets/img/portfolio/medicalexpress_1.jpeg" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                     <h5 class="text-secondary text-uppercase mb-0">Descripción: </h5><p class="mb-5">Aplicación Web - MedicalExpress es un ecommerce dedicado a la venta de productos de salud.</p>
+
+                                         <h5 class="text-secondary text-uppercase mb-0">Detalles: </h5><p class="mb-5">Esta plataforma permite la compra de productos como medicamentos y todo lo relacionado con la salud. Cuenta con alertas desde la parte administrativa donde se reciben las ordenes de los usuario para poder ser despachadas. La pagina principal muestra anuncios, lista productos y categorias. En la parte de los clientes incluye la administración del perfil del usuario, sus ordenes y contacto con la parte administrativa. El apartado administrativo cuenta
+                                             con los CRUD'S necesarios para poder administrar los articulos, darle seguimiento a los pedidos y mantenimiento al sitio.
+                                                                                                       </p>
+                                           <h5 class="text-secondary text-uppercase mb-0">Tecnologías del Proyecto: </h5><p class="mb-5">C# ASP.NET, SQL SERVER, PASARELA DE PAGO STRIPE</p>
+
+                                     <img class="img-fluid2 rounded mb-5" src="assets/img/portfolio/medicalexpress_2.jpeg" alt="" />
+
                                     <button class="btn btn-primary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
-                                        Close Window
+                                        Cerrar Ventana
                                     </button>
                                 </div>
                             </div>
