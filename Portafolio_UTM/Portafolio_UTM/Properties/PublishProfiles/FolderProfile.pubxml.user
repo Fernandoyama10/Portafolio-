@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\brand\Desktop\PORTAFOLIO</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="assets/img/avataaars.svg">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="assets/img/favicon.ico">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="assets/img/MBVD_030_Ahri_MobileWallpaper.png">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="assets/img/PedroRubioUrtecho_6D.jpg">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="assets/img/perfilfer.jpeg">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/ayudanos_a_reportar.PNG">
+      <publishTime>11/29/2020 16:50:13</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/circus.png">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/contactanostaller.PNG">
+      <publishTime>11/29/2020 16:50:13</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/libroteca_1.jpeg">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/libroteca_2.jpeg">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/medicalexpress_1.jpeg">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/medicalexpress_2.jpeg">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/OCACY_1.png">
+      <publishTime>11/29/2020 16:50:13</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/OCACY_2.png">
+      <publishTime>11/29/2020 16:50:13</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/portafolioprozoo.PNG">
+      <publishTime>11/29/2020 16:50:13</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/portafolio_2.png">
+      <publishTime>11/29/2020 16:50:13</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/portafolio_3.jpg">
+      <publishTime>11/29/2020 16:50:13</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/portafolio_5.png">
+      <publishTime>11/29/2020 16:50:13</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/portafolio_6.jpg">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/RC_1.png">
+      <publishTime>11/29/2020 16:50:13</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/RC_2.png">
+      <publishTime>11/29/2020 16:50:13</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/reportemascota.PNG">
+      <publishTime>11/29/2020 16:50:13</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/serviciostaller.PNG">
+      <publishTime>11/29/2020 16:50:13</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/talleryama.png">
+      <publishTime>11/29/2020 16:50:13</publishTime>
+    </File>
+    <File Include="assets/img/unido.png">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="assets/mail/contact_me.js">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="assets/mail/contact_me.php">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="assets/mail/jqBootstrapValidation.js">
+      <publishTime>11/29/2020 16:54:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>11/29/2020 16:50:48</publishTime>
+    </File>
+    <File Include="bin/Portafolio_UTM.dll">
+      <publishTime>11/29/2020 16:57:18</publishTime>
+    </File>
+    <File Include="bin/Portafolio_UTM.pdb">
+      <publishTime>11/29/2020 16:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>11/29/2020 16:50:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>11/29/2020 16:50:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>11/29/2020 16:50:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>11/29/2020 16:50:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>11/29/2020 16:50:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>11/29/2020 16:50:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>11/29/2020 16:50:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>11/29/2020 16:50:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>11/29/2020 16:50:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>11/29/2020 16:50:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>11/29/2020 16:50:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>11/29/2020 16:50:50</publishTime>
+    </File>
+    <File Include="css/ihover.css">
+      <publishTime>11/29/2020 16:50:51</publishTime>
+    </File>
+    <File Include="css/ihover.min.css">
+      <publishTime>11/29/2020 16:50:51</publishTime>
+    </File>
+    <File Include="css/styles.css">
+      <publishTime>11/29/2020 17:06:55</publishTime>
+    </File>
+    <File Include="IndexPortafolio.aspx">
+      <publishTime>11/29/2020 17:05:37</publishTime>
+    </File>
+    <File Include="js/scripts.js">
+      <publishTime>11/29/2020 16:50:51</publishTime>
+    </File>
+    <File Include="js/sweetalert2.all.min.js">
+      <publishTime>11/29/2020 17:03:13</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/29/2020 17:07:04</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
