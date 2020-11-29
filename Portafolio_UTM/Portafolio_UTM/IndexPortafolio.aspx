@@ -145,7 +145,7 @@
                                 <div class="img"><img src="assets/img/perfilfer.jpeg" /></div>
                                 <div class="info">
                                     <h3>Fernando Yama</h3>
-                                    <p>Desarrollador de Software</p>
+                                    <p>Desarrollador de Software multiplataforma</p>
                                 </div>
                             </a>
                         </div>
@@ -180,9 +180,34 @@
                 </div>
                 <!-- end Top to Bottom-->
                 <div class="row">
-                    <div class="col-lg-4 mr-auto"><br /><p class="lead"><i class="fa fa-user-o" aria-hidden="true"></i> T.S.U Desarrollo de Software Multiplataforma. <br /> <br /> <i class="fa fa-book" aria-hidden="true"> </i> Conocimiento en C#, Php, java, Flutter, Visual Studio, Visual Code, SQL server, Mysql. <br /><br /> <i class="fa fa-pencil-square-o" aria-hidden="true"> </i> Software para el diseño gráfico: Corel draw, Adobe Photoshop, Adobe Ilustrator, Adobe After effects.</p></div>
-                    <div class="col-lg-4 mr-auto"><br /><p class="lead"><i class="fa fa-user-o" aria-hidden="true"></i> T.S.U e Ingeniero en Desarrollo de Software. <br /> <br /> <i class="fa fa-book" aria-hidden="true"> </i> Conocimiento en C#, PHP, Flutter, Visual Studio.</p></div>
+                    <div class="col-lg-4 mr-auto"><br /><p class="lead"><i class="fa fa-user-o" aria-hidden="true"></i> T.S.U e Ingeniero en Desarrollo de Software Multiplataforma. <br /> <br /> <i class="fa fa-book" aria-hidden="true"> </i> Conocimiento en C#, Php, java, Flutter, Visual Studio, Visual Code, SQL server, Mysql. <br /><br /> <i class="fa fa-pencil-square-o" aria-hidden="true"> </i> Software para el diseño gráfico: Corel draw, Adobe Photoshop, Adobe Ilustrator, Adobe After effects.</p>
+                        
+                    </div>
+                    <div class="col-lg-4 mr-auto"><br /><p class="lead"><i class="fa fa-user-o" aria-hidden="true"></i> T.S.U e Ingeniero en Desarrollo de Software. <br /> <br /> <i class="fa fa-book" aria-hidden="true"> </i> Conocimiento en C#, PHP, Flutter, Visual Studio.</p>
+
+
+                    </div>
                     <div class="col-lg-4 mr-auto"><br /><p class="lead"><i class="fa fa-user-o" aria-hidden="true"></i> T.S.U e Ingeniero en Desarrollo de Software. <br /> <br /> <i class="fa fa-book" aria-hidden="true"> </i> Conocimiento en C#, Python, Flutter, Visual Studio, Visual Code.</p></div>
+                </div>
+                  <div class="row">
+                    <div class="col-lg-4 mr-auto">
+                         <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.linkedin.com/in/fernando-jesus-yama-sonda-2718091a3/"><i class="fab fa-fw fa-linkedin-in"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.facebook.com/fernando.yama.37"><i class="fab fa-fw fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.instagram.com/fernandoyama10/"><i class="fab fa-fw fa-instagram"></i></a>
+
+
+                    </div>
+                    <div class="col-lg-4 mr-auto">
+                         <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.linkedin.com/in/fernando-jesus-yama-sonda-2718091a3/"><i class="fab fa-fw fa-linkedin-in"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.facebook.com/fernando.yama.37"><i class="fab fa-fw fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.instagram.com/fernandoyama10/"><i class="fab fa-fw fa-instagram"></i></a>
+
+
+                    </div>
+                    <div class="col-lg-4 mr-auto">
+                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.linkedin.com/in/fernando-jesus-yama-sonda-2718091a3/"><i class="fab fa-fw fa-linkedin-in"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.facebook.com/fernando.yama.37"><i class="fab fa-fw fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.instagram.com/fernandoyama10/"><i class="fab fa-fw fa-instagram"></i></a>
                 </div>
 
             </div>
@@ -254,11 +279,11 @@
                     </div>
                     <!-- Footer Social Icons-->
                     <div class="col-lg-6 mb-5 mb-lg-0">
-                        <h4 class="text-uppercase mb-4">Redes Sociales</h4>
-                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-linkedin-in"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-instagram"></i></a>
+                        <h4 class="text-uppercase mb-4">UNIVERSIDAD</h4>
+                       <p class="lead mb-0">
+                            Universidad Tecnológica Metropolitana <br />
+                           Ing. Desarrollo y Gestión de Software.
+                        </p>
                     </div>
                 </div>
             </div>
