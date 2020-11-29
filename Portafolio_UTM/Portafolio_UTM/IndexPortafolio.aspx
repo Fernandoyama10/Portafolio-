@@ -198,9 +198,9 @@
 
                     </div>
                     <div class="col-lg-4 mr-auto">
-                         <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.linkedin.com/in/fernando-jesus-yama-sonda-2718091a3/"><i class="fab fa-fw fa-linkedin-in"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.facebook.com/fernando.yama.37"><i class="fab fa-fw fa-facebook-f"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.instagram.com/fernandoyama10/"><i class="fab fa-fw fa-instagram"></i></a>
+                         <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.linkedin.com/in/pedro-rubio-urtecho-8b90b31b5/"><i class="fab fa-fw fa-linkedin-in"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.facebook.com/PedroRubio09/"><i class="fab fa-fw fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.instagram.com/pedro_urtecho/"><i class="fab fa-fw fa-instagram"></i></a>
 
 
                     </div>
