@@ -158,11 +158,11 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- About Section Content-->
-                <div class="row">
-                    <div class="col-sm-4">
+                <div class="row justify-content-center">
+                    <div class="col-md-6 col-lg-4 mb-5">
                         <!-- normal -->
                         <div class="ih-item square effect13 top_to_bottom">
-                            <a href="#">
+                            <a >
                                 <div class="img"><img src="assets/img/perfilfer.jpeg" /></div>
                                 <div class="info">
                                     <h3>Fernando Yama</h3>
@@ -170,12 +170,21 @@
                                 </div>
                             </a>
                         </div>
+                   
+                          <br /><p class="lead"><i class="fa fa-user-o" aria-hidden="true"></i> T.S.U e Ingeniero en Desarrollo de Software Multiplataforma. <br /> <br /> <i class="fa fa-book" aria-hidden="true"> </i> Conocimiento en C#, Php, java, Flutter, Visual Studio, Visual Code, SQL server, Mysql. <br /><br /> <i class="fa fa-pencil-square-o" aria-hidden="true"> </i> Software para el diseño gráfico: Corel draw, Adobe Photoshop, Adobe Ilustrator, Adobe After effects.</p>
+                      <br />
+                                     <p class="lead" style="text-decoration: underline">Visita mis redes:</p>
+                 <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.linkedin.com/in/fernando-jesus-yama-sonda-2718091a3/"><i class="fab fa-fw fa-linkedin-in"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.facebook.com/fernando.yama.37"><i class="fab fa-fw fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.instagram.com/fernandoyama10/"><i class="fab fa-fw fa-instagram"></i></a>
+
+
                         <!-- end normal -->
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-md-6 col-lg-4 mb-5">
                         <!-- normal -->
                         <div class="ih-item square effect13 top_to_bottom">
-                            <a href="#">
+                            <a >
                                 <div class="img"><img src="assets/img/PedroRubioUrtecho_6D.jpg" /></div>
                                 <div class="info">
                                     <h3>Pedro Rubio</h3>
@@ -183,12 +192,20 @@
                                 </div>
                             </a>
                         </div>
+                   
+                        <br /><p class="lead"><i class="fa fa-user-o" aria-hidden="true"></i> T.S.U e Ingeniero en Desarrollo de Software. <br /> <br /> <i class="fa fa-book" aria-hidden="true"> </i> Conocimiento en C#, PHP, Flutter, Visual Studio.</p>
+                    <br />
+                          <p class="lead" style="text-decoration: underline">Visita mis redes:</p>
+                          <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.linkedin.com/in/pedro-rubio-urtecho-8b90b31b5/"><i class="fab fa-fw fa-linkedin-in"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.facebook.com/PedroRubio09/"><i class="fab fa-fw fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.instagram.com/pedro_urtecho/"><i class="fab fa-fw fa-instagram"></i></a>
+
                         <!-- end normal -->
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-md-6 col-lg-4 mb-5">
                         <!-- normal -->
                         <div class="ih-item square effect13 top_to_bottom">
-                            <a href="#">
+                            <a >
                                 <div class="img"><img src="assets/img/perfil.jpeg" /></div>
                                 <div class="info">
                                     <h3>Brandon Díaz Sanjuán</h3>
@@ -196,42 +213,17 @@
                                 </div>
                             </a>
                         </div>
+                      <br /><p class="lead"><i class="fa fa-user-o" aria-hidden="true"></i> T.S.U e Ingeniero en Desarrollo de Software. <br /> <br /> <i class="fa fa-book" aria-hidden="true"> </i> Conocimiento en C#, Python, Flutter, Visual Studio, Visual Code.</p>
+                       <br />
+                                    <p class="lead" style="text-decoration: underline">Visita mis redes:</p>
+                   <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.linkedin.com/in/brandondiazsanjuan/"><i class="fab fa-fw fa-linkedin-in"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.facebook.com/youinthemiddle/"><i class="fab fa-fw fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.instagram.com/brandonsjn"><i class="fab fa-fw fa-instagram"></i></a>
                         <!-- end normal -->
                     </div>
                 </div>
                 <!-- end Top to Bottom-->
-                <div class="row">
-                    <div class="col-lg-4 mr-auto"><br /><p class="lead"><i class="fa fa-user-o" aria-hidden="true"></i> T.S.U e Ingeniero en Desarrollo de Software Multiplataforma. <br /> <br /> <i class="fa fa-book" aria-hidden="true"> </i> Conocimiento en C#, Php, java, Flutter, Visual Studio, Visual Code, SQL server, Mysql. <br /><br /> <i class="fa fa-pencil-square-o" aria-hidden="true"> </i> Software para el diseño gráfico: Corel draw, Adobe Photoshop, Adobe Ilustrator, Adobe After effects.</p>
-                        
-                    </div>
-                    <div class="col-lg-4 mr-auto"><br /><p class="lead"><i class="fa fa-user-o" aria-hidden="true"></i> T.S.U e Ingeniero en Desarrollo de Software. <br /> <br /> <i class="fa fa-book" aria-hidden="true"> </i> Conocimiento en C#, PHP, Flutter, Visual Studio.</p>
 
-
-                    </div>
-                    <div class="col-lg-4 mr-auto"><br /><p class="lead"><i class="fa fa-user-o" aria-hidden="true"></i> T.S.U e Ingeniero en Desarrollo de Software. <br /> <br /> <i class="fa fa-book" aria-hidden="true"> </i> Conocimiento en C#, Python, Flutter, Visual Studio, Visual Code.</p></div>
-                </div>
-                  <div class="row">
-                    <div class="col-lg-4 mr-auto">
-                         <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.linkedin.com/in/fernando-jesus-yama-sonda-2718091a3/"><i class="fab fa-fw fa-linkedin-in"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.facebook.com/fernando.yama.37"><i class="fab fa-fw fa-facebook-f"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.instagram.com/fernandoyama10/"><i class="fab fa-fw fa-instagram"></i></a>
-
-
-                    </div>
-                    <div class="col-lg-4 mr-auto">
-                         <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.linkedin.com/in/pedro-rubio-urtecho-8b90b31b5/"><i class="fab fa-fw fa-linkedin-in"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.facebook.com/PedroRubio09/"><i class="fab fa-fw fa-facebook-f"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.instagram.com/pedro_urtecho/"><i class="fab fa-fw fa-instagram"></i></a>
-
-
-                    </div>
-                    <div class="col-lg-4 mr-auto">
-                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.linkedin.com/in/brandondiazsanjuan/"><i class="fab fa-fw fa-linkedin-in"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.facebook.com/youinthemiddle/"><i class="fab fa-fw fa-facebook-f"></i></a>
-                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.instagram.com/brandonsjn"><i class="fab fa-fw fa-instagram"></i></a>
-                </div>
-
-            </div>
         </section>
         <!-- Contact Section-->
 
@@ -239,6 +231,8 @@
             <div class="container">
                 <!-- Contact Section Heading-->
                 <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contáctanos</h2>
+
+            
                 <!-- Icon Divider-->
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
@@ -252,16 +246,18 @@
                         <div id="contactForm" name="sentMessage" novalidate="novalidate">
                             <div class="control-group">
                                 <div class="form-group floating-label-form-group controls mb-0 pb-2">
+                                         <p class="lead" style="color:green" >Si estas interesado, porfavor llena este formulario, nosotros nos pondremos en contacto contigo: </p>
+
                                     <label>Nombre</label>
-                                       <asp:TextBox runat="server" class="form-control" id="txt_name" autocomplete="off"  type="text" placeholder="Nombre" maxlength="50" required="required"></asp:TextBox>
+                                       <asp:TextBox runat="server" class="form-control" id="txt_name" autocomplete="off"  type="text" placeholder="Ingresa tu nombre" maxlength="50" required="required"></asp:TextBox>
       
-                                <asp:RegularExpressionValidator ID="RegularExpressionValidator3" CssClass="errorCaptura2" runat="server" ValidationGroup="vgrCapturaDatos" ValidationExpression="^[A-Za-z \s]+$" ControlToValidate="txt_name" Text=" " ErrorMessage="•Ingrese solo letras sin guiones."></asp:RegularExpressionValidator>
+                                <asp:RegularExpressionValidator ID="RegularExpressionValidator3" CssClass="errorCaptura2" runat="server" ValidationGroup="vgrCapturaDatos" ValidationExpression="^[a-zA-ZÀ-ÿ\u00f1\u00d1]+(\s*[a-zA-ZÀ-ÿ\u00f1\u00d1]*)*[a-zA-ZÀ-ÿ\u00f1\u00d1]+$" ControlToValidate="txt_name" Text=" " ErrorMessage="•Ingrese solo letras sin guiones."></asp:RegularExpressionValidator>
                                 </div>
                             </div>
                             <div class="control-group">
                                 <div class="form-group floating-label-form-group controls mb-0 pb-2">
                                     <label>Correo Electrónico</label>
-                                    <asp:TextBox class="form-control" runat="server" id="txt_email" autocomplete="off"  type="email" placeholder="Correo Electrónico" maxlength="30" required="required" ></asp:TextBox>
+                                    <asp:TextBox class="form-control" runat="server" id="txt_email" autocomplete="off"  type="email" placeholder="Correo Electrónico" maxlength="50" required="required" ></asp:TextBox>
         
                                    <asp:RegularExpressionValidator ID="regexEmailValid" CssClass="errorCaptura" runat="server" ValidationGroup="vgrCapturaDatos" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" ControlToValidate="txt_email" Text=" " ErrorMessage="•Formato de correo no valido"></asp:RegularExpressionValidator>
                                 </div>
