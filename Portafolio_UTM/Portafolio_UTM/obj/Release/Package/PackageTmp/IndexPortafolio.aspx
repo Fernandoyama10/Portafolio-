@@ -90,7 +90,7 @@
                 <div class="row justify-content-center">
                     <!-- Portfoli<o Item 1-->
                     <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1">
+                        <div class="portfolio-item mx-auto " data-toggle="modal" data-target="#portfolioModal1">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><a style="font-size:19px">VER DETALLES</a><br /><i class="fas fa-eye fa-3x accordion"></i></div>
                             </div>
@@ -279,7 +279,7 @@
                             </div>
                             <br />
                             <div id="success"></div>
-                            <div class="form-group">        <asp:Button  class="btn btn-primary btn-xl" id="sendMessageButton" runat="server" ValidationGroup="vgrCapturaDatos" onclick="registrar_click" Text="Enviar" /></div>
+                            <div class="form-group">        <asp:Button  class="btn btn-success btn-xl" id="sendMessageButton" runat="server" ValidationGroup="vgrCapturaDatos" onclick="registrar_click" Text="Enviar" /></div>
                     
                         </div>
                     </div>
@@ -348,7 +348,7 @@
                                     <h5 class="text-secondary text-uppercase mb-0">Dinamica de uso: </h5><p class="mb-5">Para ser parte de Prozoovita, debes registrarte en la página, posteriormente registrar tus mascotas.En dado caso que se encuentren extraviadas podrás publicar un reporte de extravío para que la comunidad lo pueda ver y ayudar a generar reportes de avistamientos o generar comentarios sobre la problemática del extravío. Podrás recompensar a la persona que más te de una ubicación concisa del animal.</p>
                                     <h5 class="text-secondary text-uppercase mb-0">Tecnologías del Proyecto: </h5><p class="mb-5">C# ASP.NET, SQL SERVER</p>
                                     <img class="img-fluid2 rounded mb-5" src="assets/img/portfolio/reportemascota.png" />
-                                    <button class="btn btn-primary" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Cerrar Ventana</button>
+                                    <button class="btn btn-danger" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Cerrar Ventana</button>
                                 </div>
                             </div>
                         </div>
@@ -382,7 +382,7 @@
                                     <h5 class="text-secondary text-uppercase mb-0">Dinamica de uso: </h5><p class="mb-5">Para ser parte de RewardCan es registrarte, al terminar tu registro podras iniciar sesion en la que el administrador podra consultar estadisticas de la recoleccion por salon y para poder determinar a los ganadores, y tambien son encargados de crear diferentes apartados como lo son grado, grupos y salones que vayan a participar.</p>
                                     <h5 class="text-secondary text-uppercase mb-0">Tecnologías del Proyecto: </h5><p class="mb-5">C# ASP.NET, SQL SERVER</p>
                                     <img class="img-fluid2 rounded mb-5" src="assets/img/portfolio/RC_2.png" />
-                                    <button class="btn btn-primary" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Cerrar Ventana</button>
+                                        <button class="btn btn-danger" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Cerrar Ventana</button>
                                 </div>
                             </div>
                         </div>
@@ -416,10 +416,7 @@
                                     <h5 class="text-secondary text-uppercase mb-0">Dinamica de uso: </h5><p class="mb-5">Para poder leer o subir contenido (autor) primero debes registrarte, una ves dado de alta puedes crear tus propios libros y sus respectivos capitulos, estas deben ser aprobadas por la administración y una vez echa su difusión en la app, esta puede ser calificada por otros usuarios mediante estrellas y también puede recibir comentarios,  asimismo puedes leer el contenido de otros autores.</p>
                                     <h5 class="text-secondary text-uppercase mb-0">Tecnologías del Proyecto: </h5><p class="mb-5">C# ASP.NET, SQL SERVER</p>
                                     <img class="img-fluid2 rounded mb-5" src="assets/img/portfolio/libroteca_1.jpeg" alt="" />
-                                    <button class="btn btn-primary" data-dismiss="modal">
-                                        <i class="fas fa-times fa-fw"></i>
-                                        Cerrar Ventana
-                                    </button>
+                                       <button class="btn btn-danger" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Cerrar Ventana</button>
                                 </div>
                             </div>
                         </div>
@@ -453,7 +450,7 @@
                                     <h5 class="text-secondary text-uppercase mb-0">Dinamica de uso: </h5><p class="mb-5">La página web del taller de hojalatería y pintura yama es completamente abierta para brindar mayor información a personas que quieran conocer, visitar y confiar los trabajos del establecimiento. Podrás interactuar libremente con el administrador de la página para resolver todos tus dudas y presupuestos de pintura automotriz.</p>
                                     <h5 class="text-secondary text-uppercase mb-0">Tecnologías del Proyecto: </h5><p class="mb-5">HTML5, Boostrap, CCS y Javascrip</p>
                                     <img class="img-fluid2 rounded mb-5" src="assets/img/portfolio/contactanostaller.png" />
-                                    <button class="btn btn-primary" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Cerrar Ventana</button>
+                                  <button class="btn btn-danger" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Cerrar Ventana</button>
                                 </div>
                             </div>
                         </div>
@@ -487,7 +484,7 @@
                                     <h5 class="text-secondary text-uppercase mb-0">Dinamica de uso: </h5><p class="mb-5">Es una pagina en donde te puedes registrar, al terminar su registro se podra ver su perfil de contacto en un directorio mapeado en donde podra ser mas facil su ubicacion en el Estado de Yucatan.</p>
                                     <h5 class="text-secondary text-uppercase mb-0">Tecnologías del Proyecto: </h5><p class="mb-5">C# ASP.NET, SQL SERVER</p>
                                     <img class="img-fluid2 rounded mb-5" src="assets/img/portfolio/OCACY_2.png" alt="" />
-                                    <button class="btn btn-primary" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Cerrar Ventana</button>
+                                          <button class="btn btn-danger" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Cerrar Ventana</button>
                                 </div>
                             </div>
                         </div>
@@ -527,10 +524,7 @@
 
                                     <img class="img-fluid2 rounded mb-5" src="assets/img/portfolio/medicalexpress_2.jpeg" alt="" />
 
-                                    <button class="btn btn-primary" data-dismiss="modal">
-                                        <i class="fas fa-times fa-fw"></i>
-                                        Cerrar Ventana
-                                    </button>
+                                           <button class="btn btn-danger" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Cerrar Ventana</button>
                                 </div>
                             </div>
                         </div>
